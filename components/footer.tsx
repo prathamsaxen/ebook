@@ -48,7 +48,7 @@ const Footer = () => {
             <ul className="space-y-3">
               <li><Link href="/genre/fiction" className="text-muted-foreground hover:text-primary transition-colors">Fiction</Link></li>
               <li><Link href="/genre/non-fiction" className="text-muted-foreground hover:text-primary transition-colors">Non-Fiction</Link></li>
-              <li><Link href="/genre/childrens" className="text-muted-foreground hover:text-primary transition-colors">Children's</Link></li>
+              <li><Link href="/genre/childrens" className="text-muted-foreground hover:text-primary transition-colors">Children&apos;s</Link></li>
               <li><Link href="/genre/poetry" className="text-muted-foreground hover:text-primary transition-colors">Poetry</Link></li>
               <li><Link href="/genre/science-fiction" className="text-muted-foreground hover:text-primary transition-colors">Science Fiction</Link></li>
             </ul>

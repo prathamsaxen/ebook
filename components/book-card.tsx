@@ -13,7 +13,7 @@ interface BookCardProps {
   rating: number;
 }
 
-const BookCard = ({ id, title, author, cover, price, rating }: BookCardProps) => {
+const BookCard = ({ title, author, cover, price, rating }: BookCardProps) => {
   const [isHovered, setIsHovered] = useState(false);
   
   return (
